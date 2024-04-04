@@ -5,3 +5,7 @@ repo: statuspage1 # The name of this repository
 sites:
   - name: SLHUB Site
     url: https://slhub.com.br
+
+  status-website:
+      baseUrl: /statuspage1 # where "repo" is your repository name
+      name: Your Status Website
