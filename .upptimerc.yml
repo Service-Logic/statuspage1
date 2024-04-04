@@ -21,6 +21,15 @@ status-website:
 assignees:
   - ferreirafox
 
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
 i18n:
   activeIncidents: Incidentes Ativos
   allSystemsOperational: Todos os sistemas estão operacionais
