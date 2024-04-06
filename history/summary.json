@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 394,
-    "timeWeek": 394,
-    "timeMonth": 394,
-    "timeYear": 394,
+    "time": 388,
+    "timeDay": 355,
+    "timeWeek": 388,
+    "timeMonth": 388,
+    "timeYear": 388,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 578,
-    "timeWeek": 578,
-    "timeMonth": 578,
-    "timeYear": 578,
+    "time": 562,
+    "timeDay": 483,
+    "timeWeek": 562,
+    "timeMonth": 562,
+    "timeYear": 562,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/apitmsdev.slhub.com.br.ico",
     "slug": "slhub-client-api-rest",
     "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.92%",
-    "time": 605,
-    "timeDay": 605,
-    "timeWeek": 605,
-    "timeMonth": 605,
-    "timeYear": 605,
-    "dailyMinutesDown": {
-      "2024-04-05": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 586,
+    "timeDay": 611,
+    "timeWeek": 586,
+    "timeMonth": 586,
+    "timeYear": 586,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SLHUB Auth | API GraphQL",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 820,
-    "timeDay": 820,
-    "timeWeek": 820,
-    "timeMonth": 820,
-    "timeYear": 820,
+    "time": 782,
+    "timeDay": 591,
+    "timeWeek": 782,
+    "timeMonth": 782,
+    "timeYear": 782,
     "dailyMinutesDown": {}
   },
   {
@@ -79,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/apitmsdev.slhub.com.br.ico",
     "slug": "slhub-client-api-graph-ql",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
-    "time": 612,
-    "timeDay": 612,
-    "timeWeek": 612,
-    "timeMonth": 612,
-    "timeYear": 612,
-    "dailyMinutesDown": {
-      "2024-04-05": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 592,
+    "timeDay": 800,
+    "timeWeek": 592,
+    "timeMonth": 592,
+    "timeYear": 592,
+    "dailyMinutesDown": {}
   }
 ]
