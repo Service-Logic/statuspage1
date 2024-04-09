@@ -40,18 +40,20 @@
     "url": "https://apitmsdev.slhub.com.br/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/apitmsdev.slhub.com.br.ico",
     "slug": "slhub-client-api-rest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 604,
-    "timeDay": 665,
-    "timeWeek": 604,
-    "timeMonth": 604,
-    "timeYear": 604,
-    "dailyMinutesDown": {}
+    "time": 599,
+    "timeDay": 607,
+    "timeWeek": 599,
+    "timeMonth": 599,
+    "timeYear": 599,
+    "dailyMinutesDown": {
+      "2024-04-09": 0
+    }
   },
   {
     "name": "SLHUB Auth | API GraphQL",
@@ -76,17 +78,19 @@
     "url": "https://apitmsdev.slhub.com.br/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/apitmsdev.slhub.com.br.ico",
     "slug": "slhub-client-api-graph-ql",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 519,
-    "timeWeek": 571,
-    "timeMonth": 571,
-    "timeYear": 571,
-    "dailyMinutesDown": {}
+    "time": 532,
+    "timeDay": 330,
+    "timeWeek": 532,
+    "timeMonth": 532,
+    "timeYear": 532,
+    "dailyMinutesDown": {
+      "2024-04-09": 0
+    }
   }
 ]
