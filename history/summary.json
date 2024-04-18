@@ -40,19 +40,19 @@
     "url": "https://apitmsdev.slhub.com.br/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/apitmsdev.slhub.com.br.ico",
     "slug": "slhub-client-api-rest",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 613,
-    "timeDay": 642,
-    "timeWeek": 621,
-    "timeMonth": 613,
-    "timeYear": 613,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 618,
+    "timeDay": 678,
+    "timeWeek": 631,
+    "timeMonth": 618,
+    "timeYear": 618,
     "dailyMinutesDown": {
-      "2024-04-18": 0
+      "2024-04-18": 13
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://apitmsdev.slhub.com.br/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/apitmsdev.slhub.com.br.ico",
     "slug": "slhub-client-api-graph-ql",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 370,
-    "timeWeek": 573,
-    "timeMonth": 595,
-    "timeYear": 595,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 591,
+    "timeDay": 398,
+    "timeWeek": 563,
+    "timeMonth": 591,
+    "timeYear": 591,
     "dailyMinutesDown": {
-      "2024-04-18": 0
+      "2024-04-18": 13
     }
   }
 ]
