@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 420,
-    "timeDay": 432,
-    "timeWeek": 411,
-    "timeMonth": 420,
-    "timeYear": 420,
+    "time": 428,
+    "timeDay": 676,
+    "timeWeek": 448,
+    "timeMonth": 428,
+    "timeYear": 428,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 574,
-    "timeDay": 431,
-    "timeWeek": 513,
-    "timeMonth": 574,
-    "timeYear": 574,
+    "time": 572,
+    "timeDay": 535,
+    "timeWeek": 522,
+    "timeMonth": 572,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2024-04-23": 25
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 596,
-    "timeDay": 536,
-    "timeWeek": 550,
-    "timeMonth": 596,
-    "timeYear": 596,
+    "time": 595,
+    "timeDay": 564,
+    "timeWeek": 562,
+    "timeMonth": 595,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2024-04-23": 24
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 724,
-    "timeDay": 861,
-    "timeWeek": 645,
-    "timeMonth": 724,
-    "timeYear": 724,
+    "time": 719,
+    "timeDay": 567,
+    "timeWeek": 654,
+    "timeMonth": 719,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2024-04-23": 24
     }
@@ -83,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/apitmsdev.slhub.com.br.ico",
     "slug": "slhub-client-api-graph-ql",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 601,
-    "timeDay": 466,
-    "timeWeek": 628,
-    "timeMonth": 601,
-    "timeYear": 601,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 598,
+    "timeDay": 454,
+    "timeWeek": 636,
+    "timeMonth": 598,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2024-04-23": 24
     }
