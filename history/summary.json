@@ -4,7 +4,7 @@
     "url": "https://slhub.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/slhub.com.br.ico",
     "slug": "slhub-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
     "uptimeDay": "23.81%",
     "uptimeWeek": "89.12%",
@@ -62,7 +62,7 @@
     "uptimeYear": "99.90%",
     "time": 586,
     "timeDay": 804,
-    "timeWeek": 581,
+    "timeWeek": 557,
     "timeMonth": 577,
     "timeYear": 586,
     "dailyMinutesDown": {
@@ -110,7 +110,7 @@
     "uptimeYear": "99.79%",
     "time": 819,
     "timeDay": 1231,
-    "timeWeek": 828,
+    "timeWeek": 921,
     "timeMonth": 981,
     "timeYear": 819,
     "dailyMinutesDown": {
