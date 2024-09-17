@@ -1,7 +1,7 @@
 url: https://apitmsdev.slhub.com.br/graphql
-status: down
-code: 502
-responseTime: 181
-lastUpdated: 2024-09-17T13:42:36.665Z
+status: up
+code: 200
+responseTime: 950
+lastUpdated: 2024-09-17T13:55:12.002Z
 startTime: 2024-04-04T21:36:31.380Z
 generator: Upptime <https://github.com/upptime/upptime>
