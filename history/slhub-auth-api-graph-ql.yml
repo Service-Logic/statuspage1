@@ -1,7 +1,7 @@
 url: https://apislhubdev.slhub.com.br/graphql
-status: down
-code: 502
-responseTime: 134
-lastUpdated: 2025-01-31T12:20:04.724Z
+status: up
+code: 200
+responseTime: 886
+lastUpdated: 2025-01-31T12:54:15.543Z
 startTime: 2024-04-04T21:36:29.730Z
 generator: Upptime <https://github.com/upptime/upptime>
