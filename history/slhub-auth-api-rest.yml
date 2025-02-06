@@ -1,7 +1,7 @@
 url: https://apislhubdev.slhub.com.br/swagger/index.html
-status: up
-code: 200
-responseTime: 733
-lastUpdated: 2025-02-06T09:32:30.914Z
+status: down
+code: 502
+responseTime: 672
+lastUpdated: 2025-02-06T11:17:56.702Z
 startTime: 2024-04-04T21:36:28.018Z
 generator: Upptime <https://github.com/upptime/upptime>
